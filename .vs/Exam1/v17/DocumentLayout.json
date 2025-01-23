@@ -1,0 +1,619 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\exam1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\exam1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\views\\teacher\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\views\\teacher\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\viewmodels\\teachers\\teachercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\viewmodels\\teachers\\teachercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\viewmodels\\teachers\\teacherdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\viewmodels\\teachers\\teacherdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\viewmodels\\teachers\\teacheritemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\viewmodels\\teachers\\teacheritemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\viewmodels\\departments\\departmentitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\viewmodels\\departments\\departmentitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\viewmodels\\teachers\\teacherupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\viewmodels\\teachers\\teacherupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\viewmodels\\departments\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\viewmodels\\departments\\departmentcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\viewmodels\\departments\\departmentdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\viewmodels\\departments\\departmentdeletevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\migrations\\20250123120612_createdteacherstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\migrations\\20250123120612_createdteacherstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|c:\\users\\l novbe\\desktop\\codeacademy\\exam1\\exam1\\migrations\\20250123115331_createddepartmentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE92852-CB56-4C7D-91DA-3CC05D38E66C}|Exam1\\Exam1.csproj|solutionrelative:exam1\\migrations\\20250123115331_createddepartmentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Teacher\\Update.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Views\\Teacher\\Update.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Teacher\\Update.cshtml",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Views\\Teacher\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:41:51.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Teacher\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Views\\Teacher\\Create.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Teacher\\Create.cshtml",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Views\\Teacher\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:39:42.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:32:37.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TeacherUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Teachers\\TeacherUpdateVM.cs",
+              "RelativeDocumentMoniker": "Exam1\\ViewModels\\Teachers\\TeacherUpdateVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Teachers\\TeacherUpdateVM.cs",
+              "RelativeToolTip": "Exam1\\ViewModels\\Teachers\\TeacherUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:58:05.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeacherItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Teachers\\TeacherItemVM.cs",
+              "RelativeDocumentMoniker": "Exam1\\ViewModels\\Teachers\\TeacherItemVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Teachers\\TeacherItemVM.cs",
+              "RelativeToolTip": "Exam1\\ViewModels\\Teachers\\TeacherItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:57:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherDeleteVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Teachers\\TeacherDeleteVM.cs",
+              "RelativeDocumentMoniker": "Exam1\\ViewModels\\Teachers\\TeacherDeleteVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Teachers\\TeacherDeleteVM.cs",
+              "RelativeToolTip": "Exam1\\ViewModels\\Teachers\\TeacherDeleteVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:57:35.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeacherCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Teachers\\TeacherCreateVM.cs",
+              "RelativeDocumentMoniker": "Exam1\\ViewModels\\Teachers\\TeacherCreateVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Teachers\\TeacherCreateVM.cs",
+              "RelativeToolTip": "Exam1\\ViewModels\\Teachers\\TeacherCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:57:19.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:52:22.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:51:58.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:25:06.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:06:09.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Departments\\DepartmentItemVM.cs",
+              "RelativeDocumentMoniker": "Exam1\\ViewModels\\Departments\\DepartmentItemVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Departments\\DepartmentItemVM.cs",
+              "RelativeToolTip": "Exam1\\ViewModels\\Departments\\DepartmentItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:13:02.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentDeleteVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Departments\\DepartmentDeleteVM.cs",
+              "RelativeDocumentMoniker": "Exam1\\ViewModels\\Departments\\DepartmentDeleteVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Departments\\DepartmentDeleteVM.cs",
+              "RelativeToolTip": "Exam1\\ViewModels\\Departments\\DepartmentDeleteVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:12:43.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepartmentUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeDocumentMoniker": "Exam1\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "RelativeToolTip": "Exam1\\ViewModels\\Departments\\DepartmentUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:12:24.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DepartmentCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeDocumentMoniker": "Exam1\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "RelativeToolTip": "Exam1\\ViewModels\\Departments\\DepartmentCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:12:09.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAASwEAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:07:55.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250123120612_CreatedTeachersTable.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Migrations\\20250123120612_CreatedTeachersTable.cs",
+              "RelativeDocumentMoniker": "Exam1\\Migrations\\20250123120612_CreatedTeachersTable.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Migrations\\20250123120612_CreatedTeachersTable.cs",
+              "RelativeToolTip": "Exam1\\Migrations\\20250123120612_CreatedTeachersTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:06:12.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250123115331_CreatedDepartmentsTable.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Migrations\\20250123115331_CreatedDepartmentsTable.cs",
+              "RelativeDocumentMoniker": "Exam1\\Migrations\\20250123115331_CreatedDepartmentsTable.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Migrations\\20250123115331_CreatedDepartmentsTable.cs",
+              "RelativeToolTip": "Exam1\\Migrations\\20250123115331_CreatedDepartmentsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:53:31.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Exam1\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Exam1\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:25:56.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam1.csproj",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Exam1.csproj",
+              "RelativeDocumentMoniker": "Exam1\\Exam1.csproj",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Exam1.csproj",
+              "RelativeToolTip": "Exam1\\Exam1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T11:25:26.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\appsettings.json",
+              "RelativeDocumentMoniker": "Exam1\\appsettings.json",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\appsettings.json",
+              "RelativeToolTip": "Exam1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T11:19:20.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Exam1\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Models\\Teacher.cs",
+              "RelativeToolTip": "Exam1\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:14:45.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Exam1\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Models\\Department.cs",
+              "RelativeToolTip": "Exam1\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:14:29.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Exam1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Models\\User.cs",
+              "RelativeToolTip": "Exam1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:13:59.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Exam1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:01:38.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:01:21.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:00:59.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:00:29.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:59:38.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Exam1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Exam1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:59:16.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Exam1\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Exam1\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:58:36.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Exam1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Exam1\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-23T10:57:14.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Program.cs",
+              "RelativeDocumentMoniker": "Exam1\\Program.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Program.cs",
+              "RelativeToolTip": "Exam1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:45:22.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exam1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAlwGYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:37:24.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Exam1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEMCAAAAAAAAAAAlwFACAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:33:19.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Exam1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\CodeAcademy\\Exam1\\Exam1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Exam1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:33:06.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

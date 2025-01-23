@@ -1,0 +1,29 @@
+﻿@using Exam1.ViewModels.Departments
+@model DepartmentUpdateVM
+@{
+    Layout = null;
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Create </h6>
+        <a asp-action="Index" asp-controller="Department" class="btn btn-outline-primary ml-auto">Return list</a>
+    </div>
+    <div class="card-body">
+
+
+        <form method="post" enctype="multipart/form-data">
+
+            <div class="form-group">
+                <label asp-for="Name"></label>
+
+                <input asp-for="Name" class="form-control">
+                <span asp-validation-for="Name" class="text-small text- danger"> </span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+
+        </form>
+
+    </div>
+</div>
